@@ -24,8 +24,7 @@ ASSUSERNAME = getenv("ASSUSERNAME" , "KHWAAISH_HOON")
 # ---------------------------------------------------------
 
 API_URL = getenv("API_URL", 'https://api.thequickearn.xyz') #youtube song url
-API_KEY = getenv("API_KEY", '30DxNexGenBotsMKDwOY') # youtube song api key, get it from https://t.me/RahulTC
-
+API_KEY = getenv("API_KEY", "NxGBNexGenBots31bc9e") # youtube song api key, get it from https://t.me/its_deep_ydv
 
 
 #---------------------------------------------------------------
